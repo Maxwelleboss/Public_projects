@@ -1,2 +1,2 @@
 # Public_projects
-Repository enclosing files  © Occansey 
+Repository enclosing public projects © Occansey 
