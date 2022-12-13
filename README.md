@@ -1,2 +1,3 @@
 # Public_projects
-Repository enclosing public projects © Occansey 
+Repository enclosing public projects
+© Occansey Maxwell
